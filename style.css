@@ -1,0 +1,78 @@
+body {
+	width:auto;
+	height:auto;
+	color:white;
+	background-image:url(backgroundheader.jpg);
+	}
+#nav {
+	position:fixed;
+	}
+#header {
+	background-image:url(backgroundheader.jpg);
+	height:150px;
+	width:100%;
+	color:white;
+	}
+ul li {	
+	margin-left:200px;
+	display:inline;
+	border:solid 1px aqua;
+	color:aqua
+	padding:3px;
+	}
+#project h3 {
+	margin-top:-20px;
+	margin-left:50px;
+	}
+#feedback h3 {
+	margin-top:50px;
+	margin-left:50px;
+	}
+img {
+	float:right;
+	margin-top:-70px;
+	margin-right:150px;
+	}
+#work h3 {
+	margin-left:55px;
+	}
+.work1 , .work2 , .work3 , .work4 , .work5 {
+	margin-left:55px;
+}
+
+.img1 , .img2 , .img3 , .img4 , .img5 {
+	float:right;
+	margin-top:100px;
+	}
+#contact {	
+	margin-top:50px;
+	margin-left:50px;
+	}
+form {
+	float:right;
+	margin-right:750px;
+	}
+p {
+	margin-left:55px;
+	}
+a {
+	text-decoration:none;
+	color:aqua;
+	}
+a:hover {
+	color:white;
+	border:solid 1px white;
+	}
+#feedback img {
+	border-radius:50%;
+	height:50px;
+	width:50px;
+	display:inline;
+	float:left;
+	margin-left:55px;
+	position:relative;
+	margin-top:10px;
+	}
+.name , .company {
+	margin-top:20px;
+	}
